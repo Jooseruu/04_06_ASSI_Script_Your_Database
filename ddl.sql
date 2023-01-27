@@ -18,7 +18,7 @@ CREATE TABLE Bikes (
     material VARCHAR(30),
     frame_size INT,
     groups TEXT,
-    avaibility BOOLEAN,
+    availability BIT,
     zip INT,
     extras_id INT,
     phone_number INT UNIQUE,
