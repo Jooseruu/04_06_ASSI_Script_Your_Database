@@ -25,6 +25,3 @@ CREATE TABLE Bikes (
     FOREIGN KEY (category_id) REFERENCES Categories,
     FOREIGN KEY (extras_id) REFERENCES Extras
 );
-
-
-
