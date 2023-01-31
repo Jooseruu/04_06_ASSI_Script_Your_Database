@@ -7,6 +7,4 @@ TRUNCATE TABLE Extras;
 
 
 
-DELETE TABLE Bikes;
-DELETE TABLE Categories; 
-DELETE TABLE Extras;
+
