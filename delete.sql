@@ -3,8 +3,3 @@
 TRUNCATE TABLE Bikes;
 TRUNCATE TABLE Categories; 
 TRUNCATE TABLE Extras;
-
-
-
-
-

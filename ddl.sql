@@ -1,3 +1,7 @@
+CREATE DATABASE BIKES;
+
+USE BIKES;
+
 CREATE TABLE Extras (
     extras_id INT PRIMARY KEY,
     extras_name VARCHAR(255)
